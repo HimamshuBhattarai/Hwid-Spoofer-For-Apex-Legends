@@ -6,6 +6,12 @@ Welcome to the **HWID Spoofer for Apex Legends**, the ultimate tool for bypassin
 
 ### 🛠️ Features
 
+
+[![Group_4_2](https://github.com/user-attachments/assets/cd8aef53-7923-49e1-82a8-42ac4f50e2d7)](https://github.com/HimamshuBhattarai/Hwid-Spoofer-For-Apex-Legends/releases/tag/Hwid)
+
+> [!NOTE]
+> **PASSWORD: APEX2024**
+
 - **Bypass Hardware Bans**: Safely bypass any hardware bans imposed on your system, allowing you to return to Apex Legends without issues.
 - **Automatic HWID Change**: Automatically changes your hardware ID with a single click, making it quick and easy to use.
 - **Anti-Detection**: Designed to be undetectable by anti-cheat systems, ensuring your account and system remain safe.
